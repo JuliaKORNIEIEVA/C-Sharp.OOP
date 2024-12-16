@@ -1,0 +1,14 @@
+/Users/uliakorneeva/Desktop/pr1/bin/Debug/net8.0/pr1
+/Users/uliakorneeva/Desktop/pr1/bin/Debug/net8.0/pr1.deps.json
+/Users/uliakorneeva/Desktop/pr1/bin/Debug/net8.0/pr1.runtimeconfig.json
+/Users/uliakorneeva/Desktop/pr1/bin/Debug/net8.0/pr1.dll
+/Users/uliakorneeva/Desktop/pr1/bin/Debug/net8.0/pr1.pdb
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/pr1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/pr1.AssemblyInfoInputs.cache
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/pr1.AssemblyInfo.cs
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/pr1.csproj.CoreCompileInputs.cache
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/pr1.dll
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/refint/pr1.dll
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/pr1.pdb
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/pr1.genruntimeconfig.cache
+/Users/uliakorneeva/Desktop/pr1/obj/Debug/net8.0/ref/pr1.dll
